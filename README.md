@@ -1,4 +1,5 @@
-# pratique_app
+# UI-Connexion
+Un interface utilisateur d'une page de connexion simple et facile à utiliser.
 
 A new Flutter project.
 
